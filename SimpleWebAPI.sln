@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebAPI", "SimpleWebAPI\SimpleWebAPI.csproj", "{94BF182A-3895-49E7-AC94-FA892A84D876}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebAPI.Test", "SimpleWebAPI.Test\SimpleWebAPI.Test.csproj", "{3CC5F0AB-FE5A-4629-9108-2B7338F2627F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{94BF182A-3895-49E7-AC94-FA892A84D876}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94BF182A-3895-49E7-AC94-FA892A84D876}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94BF182A-3895-49E7-AC94-FA892A84D876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC5F0AB-FE5A-4629-9108-2B7338F2627F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC5F0AB-FE5A-4629-9108-2B7338F2627F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC5F0AB-FE5A-4629-9108-2B7338F2627F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC5F0AB-FE5A-4629-9108-2B7338F2627F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
